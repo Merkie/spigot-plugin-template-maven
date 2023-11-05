@@ -1,0 +1,4 @@
+name: untitled
+version: '${project.version}'
+main: com.exampleauthor.untitled.Untitled
+api-version: '1.20'
